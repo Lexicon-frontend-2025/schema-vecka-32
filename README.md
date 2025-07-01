@@ -35,7 +35,7 @@ Efter denna vecka ska du:
 ## 🖥️ Slides
 * Publiceras löpande under veckan.
 
-## 📑 Lektioner
+## 🧑‍🏫 Lektioner
 
 * **Måndag** (Mandus) - **Intro Agila Projektmetoder & Övningspresentation:** Vad är agilt, fördelar, olika ramverk. Presentation av veckans gruppövning och introduktion till GitHub Projects.
 * **Tisdag** (Mandus) - **Scrum Intro, Roller & Processen:** Vad är Scrum, Scrum-teamet (PO, SM, Dev Team), Scrum-cykeln (Sprinten), artefakter (Product/Sprint Backlog, Inkrement), User Stories.
