@@ -35,10 +35,10 @@ Efter denna vecka ska du:
 ## 🖥️ Slides
 * Publiceras löpande under veckan.
 
-## 📑 Lektionsrepon
+## 📑 Lektioner
 
-* **[Måndag]** (Mandus) - **Intro Agila Projektmetoder & Övningspresentation:** Vad är agilt, fördelar, olika ramverk. Presentation av veckans gruppövning och introduktion till GitHub Projects.
-* **[Tisdag]** (Mandus) - **Scrum Intro, Roller & Processen:** Vad är Scrum, Scrum-teamet (PO, SM, Dev Team), Scrum-cykeln (Sprinten), artefakter (Product/Sprint Backlog, Inkrement), User Stories.
-* **[Onsdag]** (Mandus) - **Scrum-möten (Events) & Git Fördjupning – Branching Strategies:** Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective. Repetition Git-grunder, Varför Branching, `main`/`develop`/`feature` branches, arbetsflöde.
-* **[Torsdag]** (Mandus) - **Pull Requests & Code Reviews:** Vad är en PR, Varför PRs, Hur man skapar en PR (demo, länka till Issue), Vad är Code Review, Bästa praxis, Hur man granskar en PR (demo), Merging en PR (demo).
-* **[Fredag]** (Mandus) - **Redovisning av Gruppövningen & Repetition:** Grupperna presenterar processen och Studentkatalogen. Sammanfattning av veckans koncept och frågestund.
+* **Måndag** (Mandus) - **Intro Agila Projektmetoder & Övningspresentation:** Vad är agilt, fördelar, olika ramverk. Presentation av veckans gruppövning och introduktion till GitHub Projects.
+* **Tisdag** (Mandus) - **Scrum Intro, Roller & Processen:** Vad är Scrum, Scrum-teamet (PO, SM, Dev Team), Scrum-cykeln (Sprinten), artefakter (Product/Sprint Backlog, Inkrement), User Stories.
+* **Onsdag** (Mandus) - **Scrum-möten (Events) & Git Fördjupning – Branching Strategies:** Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective. Repetition Git-grunder, Varför Branching, `main`/`develop`/`feature` branches, arbetsflöde.
+* **Torsdag** (Mandus) - **Pull Requests & Code Reviews:** Vad är en PR, Varför PRs, Hur man skapar en PR (demo, länka till Issue), Vad är Code Review, Bästa praxis, Hur man granskar en PR (demo), Merging en PR (demo).
+* **Fredag** (Mandus) - **Redovisning av Gruppövningen & Repetition:** Grupperna presenterar processen och Studentkatalogen. Sammanfattning av veckans koncept och frågestund.
