@@ -22,7 +22,7 @@ Efter denna vecka ska du:
 ### YouTube
 * [Agile vs Scrum (YT Shorts) - ManagementBliss](https://youtube.com/shorts/I_2z_WQB6X0?si=uqOVyZ40EUc-XHnH)
 * [Scrum essentials in under 10 minutes - Scrum Alliance](https://youtu.be/RtQ3tpq-RuE?si=voVwnIJUVUOJqHJY)
-* [GitHub Pull Request Tutorial (YT Shorts) - Stephen Blum]([https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DrpK_y9dK1ys](https://youtu.be/PzVuI2F4v8U?si=z00YeKn9y1GJYTIw))
+* [GitHub Pull Request Tutorial (YT Shorts) - Stephen Blum](https://youtu.be/PzVuI2F4v8U?si=z00YeKn9y1GJYTIw)
 * [YouTube shorts, **Arjan Codes** om code reviews](https://youtube.com/shorts/ERhsRclHva8?si=wWx1jP5R96hPU83k)
 
 ### Läsning
