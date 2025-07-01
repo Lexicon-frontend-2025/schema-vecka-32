@@ -20,13 +20,14 @@ Efter denna vecka ska du:
 * [Agile Fundamentals (Pluralsight)](https://app.pluralsight.com/library/courses/agile-fundamentals/table-of-contents)
 
 ### YouTube
-* [What is Scrum? - Scrum.org](https://www.youtube.com/watch?v=502ILHjX9EE)
-* [GitHub Pull Request Tutorial - Traversy Media](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DrpK_y9dK1ys)
-* [Code Review Best Practices - Google Developers](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DN_jV6K8y0W0)
+* [Agile vs Scrum (YT Shorts) - ManagementBliss](https://youtube.com/shorts/I_2z_WQB6X0?si=uqOVyZ40EUc-XHnH)
+* [Scrum essentials in under 10 minutes - Scrum Alliance](https://youtu.be/RtQ3tpq-RuE?si=voVwnIJUVUOJqHJY)
+* [GitHub Pull Request Tutorial (YT Shorts) - Stephen Blum]([https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DrpK_y9dK1ys](https://youtu.be/PzVuI2F4v8U?si=z00YeKn9y1GJYTIw))
+* [YouTube shorts, **Arjan Codes** om code reviews](https://youtube.com/shorts/ERhsRclHva8?si=wWx1jP5R96hPU83k)
 
 ### Läsning
 * [The Agile Manifesto](https://agilemanifesto.org/iso/sv/manifesto.html)
-* [Atlassian Git Branching Models](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) (Översikt över olika strategier)
+* [Microsoft Git Branching Guidance](https://learn.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops) (Översikt över olika strategier)
 
 ## 🛠️ Övningar
 * **Gruppövning: Agilt Arbetsflöde med Scrum och Git**
