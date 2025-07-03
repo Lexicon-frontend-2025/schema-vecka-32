@@ -30,7 +30,7 @@ Efter denna vecka ska du:
 * [Microsoft Git Branching Guidance](https://learn.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops) (Översikt över olika strategier)
 
 ## 🛠️ Övningar
-* **Gruppövning: Agilt arbetsflöde med scrum och git**
+* [**Gruppövning: Agilt arbetsflöde med scrum och git**](https://github.com/Lexicon-frontend-2025/agila-metoder_gruppuppgift/blob/main/README.md)
   * Denna övning kommer att pågå under veckans eftermiddagar.
 
 ## 🖥️ Slides
