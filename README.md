@@ -2,7 +2,7 @@
 
 Övergripande schema över veckan
 
-##### Agila Projektmetoder & Git för Teamarbete
+##### Agila projektmetoder & git för teamarbete
 
 ## 🎯 Mål för veckan
 
@@ -30,7 +30,7 @@ Efter denna vecka ska du:
 * [Microsoft Git Branching Guidance](https://learn.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops) (Översikt över olika strategier)
 
 ## 🛠️ Övningar
-* **Gruppövning: Agilt Arbetsflöde med Scrum och Git**
+* **Gruppövning: Agilt arbetsflöde med scrum och git**
   * Denna övning kommer att pågå under veckans eftermiddagar.
 
 ## 🖥️ Slides
@@ -38,8 +38,8 @@ Efter denna vecka ska du:
 
 ## 🧑‍🏫 Lektioner
 
-* **Måndag** (Mandus) - **Intro Agila Projektmetoder & Övningspresentation:** Vad är agilt, fördelar, olika ramverk. Presentation av veckans gruppövning och introduktion till GitHub Projects.
-* **Tisdag** (Mandus) - **Scrum Intro, Roller & Processen:** Vad är Scrum, Scrum-teamet (PO, SM, Dev Team), Scrum-cykeln (Sprinten), artefakter (Product/Sprint Backlog, Inkrement), User Stories.
-* **Onsdag** (Mandus) - **Scrum-möten (Events) & Git Fördjupning – Branching Strategies:** Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective. Repetition Git-grunder, Varför Branching, `main`/`develop`/`feature` branches, arbetsflöde.
-* **Torsdag** (Mandus) - **Pull Requests & Code Reviews:** Vad är en PR, Varför PRs, Hur man skapar en PR (demo, länka till Issue), Vad är Code Review, Bästa praxis, Hur man granskar en PR (demo), Merging en PR (demo).
-* **Fredag** (Mandus) - **Redovisning av Gruppövningen & Repetition:** Grupperna presenterar processen och Studentkatalogen. Sammanfattning av veckans koncept och frågestund.
+* **Måndag** (Mandus) - **Intro Agila projektmetoder & övningspresentation:** Vad är agilt, fördelar, olika ramverk. Presentation av veckans gruppövning och introduktion till GitHub Projects.
+* **Tisdag** (Mandus) - **Scrum intro, roller & processen:** Vad är Scrum, Scrum-teamet (PO, SM, Dev Team), Scrum-cykeln (Sprinten), artefakter (Product/Sprint Backlog, Inkrement), User Stories.
+* **Onsdag** (Mandus) - **Scrum-möten (events) & git fördjupning – Branching Strategies:** Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective. Repetition Git-grunder, Varför Branching, `main`/`develop`/`feature` branches, arbetsflöde.
+* **Torsdag** (Mandus) - **Pull requests & code reviews:** Vad är en PR, Varför PRs, hur man skapar en PR (demo, länka till Issue), Vad är Code Review, bästa praxis, hur man granskar en PR (demo), Merging av en PR (demo).
+* **Fredag** (Mandus) - **Redovisning av gruppövningen & repetition:** Grupperna presenterar processen och studentkatalogen. Sammanfattning av veckans koncept och frågestund.
