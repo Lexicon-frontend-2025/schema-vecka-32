@@ -40,6 +40,6 @@ Efter denna vecka ska du:
 
 * **Måndag** (Mandus) - **Intro agila projektmetoder & övningspresentation:** Vad är agilt, fördelar, olika ramverk. Presentation av veckans gruppövning och introduktion till GitHub Projects.
 * **Tisdag** (Mandus) - **Scrum intro, roller & processen:** Vad är Scrum, Scrum-teamet (PO, SM, Dev Team), Scrum-cykeln (Sprinten), artefakter (Product/Sprint Backlog, Inkrement), User Stories.
-* **Onsdag** (Mandus) - **Scrum-möten (events) & git fördjupning – Branching Strategies:** Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective. Repetition Git-grunder, Varför Branching, `main`/`develop`/`feature` branches, arbetsflöde.
-* **Torsdag** (Mandus) - **Pull requests & code reviews:** Vad är en PR, Varför PRs, hur man skapar en PR (demo, länka till Issue), Vad är Code Review, bästa praxis, hur man granskar en PR (demo), Merging av en PR (demo).
-* **Fredag** (Robert) - **Redovisning av gruppövningen & repetition:** Grupperna presenterar processen och studentkatalogen. Sammanfattning av veckans koncept och frågestund.
+* **Onsdag** (APL-teamet) - APL-dag
+* **Torsdag** (Mandus) -  **Scrum-möten (events) & git fördjupning – Branching Strategies:** Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective. Repetition Git-grunder, Varför Branching, `main`/`develop`/`feature` branches, arbetsflöde.
+* **Fredag** (Mandus) - **Pull requests & code reviews:** Vad är en PR, Varför PRs, hur man skapar en PR (demo, länka till Issue), Vad är Code Review, bästa praxis, hur man granskar en PR (demo), Merging av en PR (demo).
