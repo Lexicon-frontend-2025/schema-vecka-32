@@ -38,8 +38,8 @@ Efter denna vecka ska du:
 
 ## 🧑‍🏫 Lektioner
 
-* **Måndag** (https://github.com/Lexicon-frontend-2025/Lektion-4-augusti) (Mandus) - **Intro agila projektmetoder & GitHub Projects & övningspresentation:** Vad är agilt, fördelar, olika ramverk. Presentation av veckans gruppövning och introduktion till GitHub Projects.
-* **Tisdag** (Mandus) - **Scrum intro, roller & processen:** Vad är Scrum, Scrum-teamet (PO, SM, Dev Team), Scrum-cykeln (Sprinten), artefakter (Product/Sprint Backlog, Inkrement), User Stories.
-* **Onsdag** (APL-teamet) - **APL-dag på plats**
-* **Torsdag** (Mandus) -  **Scrum-möten (events) & git fördjupning – Branching Strategies:** Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective. Repetition Git-grunder, Varför Branching, `main`/`develop`/`feature` branches, arbetsflöde.
-* **Fredag** (Mandus) - **Pull requests & code reviews:** Vad är en PR, Varför PRs, hur man skapar en PR (demo, länka till Issue), Vad är Code Review, bästa praxis, hur man granskar en PR (demo), Merging av en PR (demo).
+* [**Måndag**](https://github.com/Lexicon-frontend-2025/Lektion-4-augusti) (Mandus) - **Intro agila projektmetoder & GitHub Projects & övningspresentation:** Vad är agilt, fördelar, olika ramverk. Presentation av veckans gruppövning och introduktion till GitHub Projects.
+* [**Tisdag**](https://github.com/Lexicon-frontend-2025/Lektion-5-augusti/tree/main) (Mandus) - **Scrum intro, roller & processen:** Vad är Scrum, Scrum-teamet (PO, SM, Dev Team), Scrum-cykeln (Sprinten), artefakter (Product/Sprint Backlog, Inkrement), User Stories, Scrum-möten (events), Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective.
+* [**Onsdag**]() (APL-teamet) - **APL-dag på plats**
+* [**Torsdag**](https://github.com/Lexicon-frontend-2025/Lektion-7-augusti/edit/main/README.md) (Mandus) -  ** git fördjupning – Branching Strategies:**. Repetition Git-grunder, Varför Branching, `main`/`develop`/`feature` branches, arbetsflöde.
+* [**Fredag**]() (Mandus) - **Pull requests & code reviews:** Vad är en PR, Varför PRs, hur man skapar en PR (demo, länka till Issue), Vad är Code Review, bästa praxis, hur man granskar en PR (demo), Merging av en PR (demo).
