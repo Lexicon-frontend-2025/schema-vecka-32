@@ -38,7 +38,7 @@ Efter denna vecka ska du:
 
 ## 🧑‍🏫 Lektioner
 
-* **Måndag** (Mandus) - **Intro agila projektmetoder & övningspresentation:** Vad är agilt, fördelar, olika ramverk. Presentation av veckans gruppövning och introduktion till GitHub Projects.
+* **Måndag** (https://github.com/Lexicon-frontend-2025/Lektion-4-augusti) (Mandus) - **Intro agila projektmetoder & GitHub Projects & övningspresentation:** Vad är agilt, fördelar, olika ramverk. Presentation av veckans gruppövning och introduktion till GitHub Projects.
 * **Tisdag** (Mandus) - **Scrum intro, roller & processen:** Vad är Scrum, Scrum-teamet (PO, SM, Dev Team), Scrum-cykeln (Sprinten), artefakter (Product/Sprint Backlog, Inkrement), User Stories.
 * **Onsdag** (APL-teamet) - **APL-dag på plats**
 * **Torsdag** (Mandus) -  **Scrum-möten (events) & git fördjupning – Branching Strategies:** Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective. Repetition Git-grunder, Varför Branching, `main`/`develop`/`feature` branches, arbetsflöde.
