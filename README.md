@@ -34,7 +34,7 @@ Efter denna vecka ska du:
   * Denna övning kommer att pågå under veckans eftermiddagar.
 
 ## 🖥️ Slides
-* Publiceras löpande under veckan.
+* Publiceras löpande under veckan: [**Veckans Power Point**] (https://docs.google.com/presentation/d/1saJDfsGqTOppkWu8JhHIVymtMRJIqlWXgAGR6BVuo_U/edit?usp=sharing) .
 
 ## 🧑‍🏫 Lektioner
 
