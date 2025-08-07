@@ -32,6 +32,7 @@ Efter denna vecka ska du:
 ## 🛠️ Övningar
 * [**Gruppövning: Agilt arbetsflöde med scrum och git**](https://github.com/Lexicon-frontend-2025/agila-metoder_gruppuppgift/blob/main/README.md)
   * Denna övning kommer att pågå under veckans eftermiddagar.
+  * Frivilligt - [Öva på att göra branches i GIT](https://learngitbranching.js.org/)
 
 ## 🖥️ Slides
 * Publiceras löpande under veckan: [**Veckans Power Point**] (https://docs.google.com/presentation/d/1saJDfsGqTOppkWu8JhHIVymtMRJIqlWXgAGR6BVuo_U/edit?usp=sharing) .
